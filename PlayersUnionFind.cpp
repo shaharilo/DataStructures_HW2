@@ -1,6 +1,3 @@
-//
-// Created by Toam Elharar on 21/12/2022.
-//
 
 #include "PlayersUnionFind.h"
 #define INIT_PARENT_VALUE -1
