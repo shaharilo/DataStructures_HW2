@@ -1,6 +1,3 @@
-//
-// Created by shaha on 23/12/2022.
-//
 
 #ifndef WET2_HASHTABLE_H
 #define WET2_HASHTABLE_H
